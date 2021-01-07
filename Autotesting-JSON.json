@@ -1,0 +1,68 @@
+{
+	"IP": "192.168.196.217",	
+	"APIkey": "6f4bfd9drnVeee0rnV4de6rnV9e3arnVeb1691b35283",	
+
+	"url": "https://admin@localhost:Newpassword6@192.168.196.217/config",
+	
+	"connectionGraph": [
+		  "testGraphAPI",
+			"4c6fc6fd-f6d0-4371-94b2-802ea9412ba7",
+			"cdb2cdfa-04ca-4de6-9eea-9941442191f0",
+			"N-6drz7G8v84c1~.INGt5DSrIM_pl_92qS",
+			"MeetingRoomManager@synergyplay.com"		
+	],
+	
+	"connectionEWS": [
+		"testEWSAPI",
+		"https://outlook.office365.com/EWS/Exchange.asmx",
+		"MeetingRoomManager@synergyplay.com",
+		"synergyskyplay.com",
+		"SynergySkyWord01"
+	],
+
+	"connectionPexip": [
+		"testPexip",
+		"https://pexip.synergysky.com",
+		"admin",
+		"pwd4theSKY!",
+		"https://meet.synergysky.com"
+	],
+
+	"connectionThingsWeb": [
+		"testThingsWeb",
+		"idXfQuNpZGET2C5B79dxgz3e9daSLtCX",
+		"a2rgUto34mq1k7_YcyBJPgGq7k9kynoxePe15pTFgpuy7p21hUUDiV7HnAF97EzX"
+	],
+
+	"connectionQuickChannel": [
+		"testQuick",
+		"ag@synergysky.com",
+		"pwd4theSKY!",
+		"rtmp://stream11.abiliteam.com/ability494push/mp4:0xb852e7b31b6d377d9cb51f6a037271ae_cam1",
+		"test@test.com"
+	],
+	
+	"addRoomManuallyName": "Norway",
+
+	"oneTimeVMRrange": [ "4000", "6000" ],
+
+	"addVideoSystemCisco": [
+		"http://172.17.20.142",
+		"IDONOTCARE",
+		"admin",
+		"rnd_c60@synergysky.com"
+	],
+
+	"conferenceSettings": [
+		"test@test.com",
+		"100",
+		"ConferenceEndWarning",
+		"ConferenceEndText",
+		"ConferenceCancelled",
+		"2,4,6,8",
+		"MeetingManager",
+		"InternalEmailDomain"
+	],
+
+	"policyName": "testPolicy"
+}
